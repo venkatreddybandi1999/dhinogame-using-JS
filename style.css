@@ -18,8 +18,8 @@ body{
     background-image: url(./images/dino.png);
     background-repeat: no-repeat;
     background-size: cover;
-    width: 300px;
-    height: 150px;
+    width: 233px;
+    height: 114px;
     position: absolute;
     bottom: 5px;
     left: 52px;
@@ -28,8 +28,8 @@ body{
     background-image: url(./images/dragon.png);
     background-repeat: no-repeat;
     background-size: cover;
-    width: 233px;
-    height: 150px;
+    width: 166px;
+    height: 113px;
     position: absolute;
     bottom: 5px;
     left: 44vw;
@@ -63,7 +63,7 @@ body{
         bottom: 0;
     }
     50%{
-        bottom: 450px;
+        bottom: 500px;
     }
     100%{
         bottom: 0px;
